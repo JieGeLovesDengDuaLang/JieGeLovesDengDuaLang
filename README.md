@@ -11,4 +11,4 @@
 </span>
 
 ## Notice
-My repo Town Of Them was moved to [my organization](github.com/TownOfThemAU).
+My repo Town Of Them was moved to [my organization](https://github.com/TownOfThemAU/).
