@@ -1,5 +1,3 @@
-# My informations
-
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=JieGeLovesDengDuaLang&theme=blue-green' />
 
 <span>
@@ -9,6 +7,3 @@
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=JieGeLovesDengDuaLang&layout=compact' />
 
 </span>
-
-## Notice
-My repo Town Of Them was moved to [my organization](https://github.com/TownOfThemAU/).
