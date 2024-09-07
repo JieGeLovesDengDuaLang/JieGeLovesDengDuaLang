@@ -4,7 +4,7 @@
 
 <span>
 
-  <img src='https://github-readme-stats.vercel.app/api?username=JieGeLovesDengDuaLang&show_icons=true' />
+  <img src='https://github-readme-stats.vercel.app/api?username=JieGeLovesDengDuaLang&show_icons=true&count_private=true' />
 
 </span>
 
