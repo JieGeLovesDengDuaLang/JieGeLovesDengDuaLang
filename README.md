@@ -8,4 +8,6 @@
 
 </span>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ModLaboratory&repo=TheOtherThem&show_owner=true)](https://github.com/ModLaboratory/TheOtherThem)
+[![ToT](https://github-readme-stats.vercel.app/api/pin/?username=ModLaboratory&repo=TheOtherThem&show_owner=true)](https://github.com/ModLaboratory/TheOtherThem)
+
+[![TORGM](https://github-readme-stats.vercel.app/api/pin/?username=JieGeLovesDengDuaLang&repo=TheOtherRoles-GM&show_owner=true)](https://github.com/JieGeLovesDengDuaLang/TheOtherRoles-GM)
