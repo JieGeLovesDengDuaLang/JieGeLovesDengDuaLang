@@ -14,6 +14,6 @@ Programming is my biggest hobby. I hardly play games (even including Among Us) b
 
 Sometimes I listen to music and watch animations, but I really don't know a lot of them. <br />
 
-Lately I'm taking part in the development of [TheOtherThem (ToT, a mod based on TORGM 3.5.4 adapted by me and compatible with the latest AU version)](https://github.com/ModLaboratory/TheOtherThem) and [ClashofGods(COG)](https://github.com/CognifyDev/ClashOfGods). Your support is the power that encourages me to continue modding!
+Lately I'm taking part in the development of [TheOtherThem (ToT, a mod based on TORGM 3.5.4 adapted by me and compatible with the latest AU version)](https://github.com/ModLaboratory/TheOtherThem) and [ClashofGods (COG)](https://github.com/CognifyDev/ClashOfGods). Your support is the power that encourages me to continue modding!
 
 [![ToT](https://github-readme-stats.vercel.app/api/pin/?username=ModLaboratory&repo=TheOtherThem&show_owner=true)](https://github.com/ModLaboratory/TheOtherThem)[![TORGM](https://github-readme-stats.vercel.app/api/pin/?username=JieGeLovesDengDuaLang&repo=TheOtherRoles-GM&show_owner=true)](https://github.com/JieGeLovesDengDuaLang/TheOtherRoles-GM)
